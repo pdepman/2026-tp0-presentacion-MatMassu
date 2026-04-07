@@ -8,8 +8,9 @@
 <sup>De la vez que me afané una avioneta</sup>
 
 ## Sobre mí
-Contrario a lo que mi legajo da a entender, este es mi primer paso por la materia. 
-Arranqué cursando Ingeniería Industrial en la UBA en el año 2017, y en el 2018 me pasé a sistemas en UTN, pero recién me lo empecé a tomar en serio por el 2023. Si todo sale bien, el año que viene estaré en el tercer nivel de la carrera.
+Contrario a lo que mi legajo da a entender, este es mi primer paso por la materia.
+Arranqué cursando Ingeniería Industrial en la UBA en el año 2017, aunque pronto despues empecé a tomar mas interés en el lado tecnológico de la ingeniería: programación de bajo nivel, diseño y construcción de componentes de computadora, criptografía, seguridad informática, etc. Este interés eventualmente devino en mi pase a Ing. en Sistemas en la UTN, allá por el 2018 (pero recién me lo empecé a tomar en serio por el 2023).
+Si todo sale bien, el año que viene estaré en el tercer nivel de la carrera.
 
 ## Hobbies principales
 - Toco el piano, principalmente buscando acordes de temas que me gustan e improvisando hasta que suene bien (o me resigne).
